@@ -5,5 +5,5 @@ types:
 inputs:
   - label: Project name
     type: text
-    name: project_name
+    name: test 1
     default: project-name
